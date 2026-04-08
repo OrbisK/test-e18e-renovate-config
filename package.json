@@ -1,0 +1,38 @@
+{
+  "name": "test-e18e-renovate-config",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OrbisK/test-e18e-renovate-config.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/OrbisK/test-e18e-renovate-config/issues"
+  },
+  "homepage": "https://github.com/OrbisK/test-e18e-renovate-config#readme",
+  "dependencies": {
+    "@jsdevtools/ez-spawn": "^3.0.4",
+    "axios": "^1.14.0",
+    "bluebird": "^3.7.2",
+    "body-parser": "^2.2.2",
+    "buf-compare": "^1.0.1",
+    "buffer-equal": "^1.0.1",
+    "buffer-equals": "^1.0.4",
+    "builtin-modules": "^5.0.0",
+    "chalk": "^5.6.2",
+    "cli-color": "^2.0.4",
+    "core-util-is": "^1.0.3",
+    "cpx": "^1.5.0",
+    "cross-fetch": "^4.1.0",
+    "crypto-js": "^4.2.0",
+    "deep-equal": "^2.2.3"
+  }
+}
