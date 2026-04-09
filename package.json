@@ -31,7 +31,7 @@
     "cli-color": "^2.0.4",
     "core-util-is": "^1.0.3",
     "cpx": "^1.5.0",
-    "cross-fetch": "^4.1.0",
+    "ofetch": "^1.5.1",
     "crypto-js": "^4.2.0",
     "deep-equal": "^2.2.3",
     "glob": "^13.0.0"
