@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/OrbisK/test-e18e-renovate-config#readme",
   "dependencies": {
-    "@jsdevtools/ez-spawn": "^3.0.4",
+    "tinyexec": "^1.1.1",
     "axios": "^1.14.0",
     "bluebird": "^3.7.2",
     "body-parser": "^2.2.2",
