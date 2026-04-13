@@ -2,6 +2,9 @@
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "extends": [
     "config:best-practices",
-    "github>OrbisK/renovate-config-e18e#feat/best-practices"
+    "config:best-practices",
+    "github>OrbisK/renovate-config-e18e:recommendations#feat/best-practices",
+    "github>OrbisK/renovate-config-e18e:replacements#feat/best-practices",
+    "github>OrbisK/renovate-config-e18e:mergeConfidence:all-badges#feat/best-practices"
   ]
 }
