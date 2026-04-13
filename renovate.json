@@ -1,6 +1,6 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "extends": [
-    "github>OrbisK/renovate-config-e18e:recommendations",
+    "github>OrbisK/renovate-config-e18e",
   ]
 }
