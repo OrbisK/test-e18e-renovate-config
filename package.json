@@ -23,7 +23,7 @@
     "axios": "^1.14.0",
     "bluebird": "^3.7.2",
     "body-parser": "^2.2.2",
-    "buf-compare": "^1.0.1",
+    "buf-compare": "^2.0.0",
     "buffer-equal": "^1.0.1",
     "buffer-equals": "^1.0.4",
     "builtin-modules": "^5.0.0",
