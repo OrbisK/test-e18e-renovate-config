@@ -1,8 +1,7 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "extends": [
-    "github>OrbisK/renovate-config-e18e",
-    "github>OrbisK/renovate-config-npmx:minimal",
+    "github>OrbisK/renovate-config-e18e#main",
   ],
   "prBodyColumns": [
           "Package",
