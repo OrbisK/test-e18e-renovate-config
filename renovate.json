@@ -3,14 +3,4 @@
   "extends": [
     "github>OrbisK/renovate-config-e18e#main",
   ],
-  "prBodyColumns": [
-          "Package",
-          "Change",
-          "Age",
-          "Adoption",
-          "Passing",
-          "Confidence",
-          "Community Notes",
-          "npmx"
-        ]
 }
